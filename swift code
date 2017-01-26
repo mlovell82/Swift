@@ -1,2 +1,20 @@
 # Swift
-samples of Swift code
+import UIKit
+
+var num = 5 print("num's value is (num)")
+
+var str = "num's value is (num)" print(str)
+
+// comment /* multi-line comment*/
+
+var mick : Int = 5 var john : String = "i've got it" var gen : Bool = true var will : Double = 3.14 var patti : Float = 9.8
+
+let lunch = "burrito" //lunch = "taco" // let = const var; can not be reassigned
+
+var n = 2 + 3.4 let a = 2 let b = 3.4 let d = Double(a) + b // must explicitly cast conversions
+
+var bum = 5
+
+if bum < 0 // var must be initialized and assigned { print(bum) }
+
+var num1 : Int? = nil // Q mark needed for null value nil
